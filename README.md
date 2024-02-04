@@ -15,12 +15,13 @@ AgroMate offers a comprehensive platform designed to empower farmers with the to
 
 ## How to Use
 
-1. Download and install the AgroMate app from the app store.
+1. Download and install the AgroMate app from Agromate GitHub.
 2. Launch the app and grant necessary permissions.
 3. Scan your crops using the AR feature to access detailed insights.
 4. Stay informed with real-time weather updates and seasonal guidance.
-5. Engage with the farming community through forums and expert consultations.
-6. Make informed decisions about fertilizers, water usage, and government policies to optimize farming practices.
+5. Get guidance from industry experts.
+6. Engage with the farming community through forums and expert consultations.
+7. Make informed decisions about fertilizers, water usage, and government policies to optimize farming practices.
 
 ## Feedback and Support
 
