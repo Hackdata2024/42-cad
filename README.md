@@ -1,4 +1,4 @@
-# AgroMate - Augmented Reality Farming App
+# AGROMATE - Augmented Reality Farming App
 
 AgroMate offers a comprehensive platform designed to empower farmers with the tools and knowledge needed to thrive in today's agricultural landscape.
 
