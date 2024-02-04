@@ -2,6 +2,8 @@
 
 AgroMate offers a comprehensive platform designed to empower farmers with the tools and knowledge needed to thrive in today's agricultural landscape.
 
+The Source Files can be viewed on the link - https://drive.google.com/drive/folders/1Lq5j6fCpl6sHLQKKJBunQIaVrbk2fbI2?usp=sharing
+
 ## Features
 
 - **Crop Scanning**: Easily scan crops to access detailed insights on growing conditions, nutrient requirements, and disease susceptibility.
