@@ -42,7 +42,7 @@ For any feedback or support inquiries, please contact our support team at suppor
 
 Made with ❤️ by AgroMate
 ## Agromate Team - 
-### Tushar Sharma
-### Hiteshi Dattatrey
-### Vrishti Garg
-### Sarthak Rao
+ Tushar Sharma
+ Hiteshi Dattatrey
+ Vrishti Garg
+ Sarthak Rao
