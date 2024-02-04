@@ -22,7 +22,9 @@ The Source Files can be viewed on the link - https://drive.google.com/drive/fold
 
 ![image](https://github.com/Hackdata2024/42-cad/assets/91653616/2ba9b627-87cc-4c76-9256-ac99f7318c33)
 
+## PPT Presentation
 
+Link - https://docs.google.com/presentation/d/1ogTiH8QgOGtHv6lpvel4mrh9irEg_4F3FBzzG8lZrzs/edit?usp=sharing
 
 ## How to Use
 
