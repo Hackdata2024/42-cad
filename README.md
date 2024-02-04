@@ -14,8 +14,10 @@ AgroMate offers a comprehensive platform designed to empower farmers with the to
 - **Fair Market Prices**: Stay updated on fair market prices to ensure profitability.
 - 
 ## App Screens
-![image](https://github.com/Hackdata2024/42-cad/assets/91653616/7e6e5975-7bce-4f3a-b009-d81406a37a33)
-![image](https://github.com/Hackdata2024/42-cad/assets/91653616/9270f153-e33f-40e4-93b6-539ed9748cf1)
+![image](https://github.com/Hackdata2024/42-cad/assets/91653616/0b2ad38b-d58f-4be6-881b-cf36f6f9c04c)
+
+![image](https://github.com/Hackdata2024/42-cad/assets/91653616/081e9ab3-ba35-4f76-9dcd-1902882f682b)
+
 ![image](https://github.com/Hackdata2024/42-cad/assets/91653616/2ba9b627-87cc-4c76-9256-ac99f7318c33)
 
 
